@@ -3,7 +3,7 @@
 ## 📌 Overview
 After configuring our AWS Provider in Day 2, Day 3 is all about provisioning actual cloud-native resources. Today, we moved beyond theory and used Terraform to create, modify, and destroy an Amazon S3 (Simple Storage Service) bucket. We also explored how Terraform detects changes to existing infrastructure.<br>
 
-<img>https://cdn-images-1.medium.com/max/1600/1*RqpDvP9BBRxal3g29rxnXg.png</img><br>
+![image](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*RqpDvP9BBRxal3g29rxnXg.png)
 
 ## 🧠 Key Learnings
 
