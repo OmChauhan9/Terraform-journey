@@ -3,6 +3,8 @@
 ## 📌 Overview
 Today's module dives into the core brain of Terraform: the State File (`terraform.tfstate`). Understanding how Terraform tracks infrastructure, compares your code to reality, and decides what changes to make is essential for managing infrastructure safely. 
 
+![image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1yY-dC8MDFIvEiiB6ovpuA.png)
+
 ## 🧠 Key Learnings
 
 ### What is the Terraform State File?
